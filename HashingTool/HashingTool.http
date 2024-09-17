@@ -1,0 +1,6 @@
+@HashingTool_HostAddress = http://localhost:5083
+
+GET {{HashingTool_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
